@@ -13,8 +13,8 @@ include <GL\glew.h>
 
 
 //comment these libraries if you want to run the project in windows
-// #include <GL/gl.h>
-// #include <GL/glut.h>
+#include <GL/gl.h>
+#include <GL/glut.h>
 
 //
 
